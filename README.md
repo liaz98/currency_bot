@@ -1,7 +1,7 @@
 # Currency Bot
 Technologies: Python, BeautifulSoup, telebot
 
-##Telegram bot
+## Telegram bot
 
 This bot gives information about daily updates of currency status. 
 
